@@ -1,0 +1,7 @@
+Python data types:-
+1.Numeric : int, float, complex
+integer are num from 0-9
+FLOAT are decimal points
+
+
+ 
