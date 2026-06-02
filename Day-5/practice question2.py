@@ -1,0 +1,9 @@
+s1=30
+s2=40
+s3=50
+s4=60
+s5=70
+total=(s1+s2+s3+s4+s5)
+average=total/5
+print(total)
+print(average)
